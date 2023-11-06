@@ -1,0 +1,10 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@900&display=swap'); */
+
+.select_schedule {
+   min-width: 110px !important;
+}
+
+.home_wrapper {
+    margin: 20px 30px;
+}
